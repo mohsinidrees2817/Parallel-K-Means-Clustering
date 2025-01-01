@@ -1,6 +1,4 @@
-Here’s the complete **`README.md`** file that you can copy and paste directly into your GitHub repository:
 
-```markdown
 # Parallel K-Means Clustering
 
 A high-performance **Parallel K-Means Clustering** algorithm implemented in C++ with **OpenMP** for parallelization. This project demonstrates the use of advanced clustering techniques with efficient computation for large datasets.
